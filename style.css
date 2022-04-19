@@ -468,16 +468,22 @@ span {
     width: 100%;
     flex-direction: column;
     height: 50vh;
+    background-color: #5397f7;
   }
   .bottom-logo-container {
     width: 100%;
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: #5397f7;
   }
   .bottom-link-container {
     background-color: #5397f7;
-    margin: 4%;
+  }
+  .bottom-links {
+    background-color: #5397f7;
+    margin-top: 20px;
+    width: 100%;
   }
   .logo-container {
     margin-right: 10%;
